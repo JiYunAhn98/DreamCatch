@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: 25aa9ed2b755eaa42b7e7188cb90ac59
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5630d3ef28eabb74e812944b58e28e9d
+      internalID: 1725109040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 714
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058d09cd553d7934291b6f1c8d57f9c5
+      internalID: -849855697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 714
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09f8c384c779764192dd72ea9ebf219
+      internalID: 660098722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 714
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa6202995522fa46a5133a8e12669f6
+      internalID: -943522133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 714
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67643dade22d1a646a34c4949f22c39d
+      internalID: 1452750919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299275b347be24442a2ee395e0d7cef8
+      internalID: 1481224922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 628
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af525ec2d15624f9bfaa17e9091121
+      internalID: 1352169790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 628
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a2e06aff229e43a65ca74cad3826a
+      internalID: -1681029574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 628
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7f314dd2e0bbb409a188e38fa59cec
+      internalID: 1411522243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 628
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da984f954cb85f40b3281841dda6dd9
+      internalID: 1874113906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c9fb49dfb0fd47b6f2c6a5985cf98
+      internalID: -702482728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 542
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e1c9b237383ed428d4303862a916b8
+      internalID: -2030012812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 542
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db6681235d6b7048a12086ac54ce4bd
+      internalID: 1369468167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 542
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c9ed44ebf36d84699745c3016d006d
+      internalID: -634452917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 542
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090e723fc1c839c48b9bbc2fa3bee60f
+      internalID: -980900050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827b3801b418ef8468532d9868ad86c1
+      internalID: 1552618219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 456
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc35f779aa73f4397a7a135b4e02cd
+      internalID: 1034743119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 456
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16b464c66a2aa48b6a4441c5464fca
+      internalID: 1868626372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 456
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d6ab6fa20401446bcc3a03bdc69903
+      internalID: 1753629545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 456
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c04ffdfefd26469a7b0706c7d68a0
+      internalID: -839850409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581de303ab768e5499c6308c4e66ff42
+      internalID: -1556706166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 370
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721bc991887920d45a92678a4efe9a06
+      internalID: 382272558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 370
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89283f444248f7948bdc4313eee134f5
+      internalID: 1696663466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 370
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea0fbbda96311547986c3b5cb5379c9
+      internalID: 1084933840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 370
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c9ed5ec854c7409b7a13870359ced
+      internalID: 695112424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24eb5edc79ad5649a67b0432527abbc
+      internalID: 1768532337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 284
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e5848f7efd0648af9433f82cba1c2
+      internalID: 1762301367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 284
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449cdddb1429ba04cabaef6971849a95
+      internalID: 334117998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 284
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef8146342171f499e1e2d78be65f4d
+      internalID: 967354965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 284
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c50e3cf3c86c26438365d03825a75da
+      internalID: 527424023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa5064acda62347b141bcf4a9ba2fd
+      internalID: 1134409459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 198
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5889e6244ba7b47afda59f7c786171
+      internalID: -1384867311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 198
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40804fce2b29f348a70916d47a394fe
+      internalID: -716362652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 198
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dda63b718171e4f9930a47bfdf4fd2
+      internalID: 127803063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 198
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808044dad805e84d84ef61c503d1cf4
+      internalID: 64162010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1693067822df0742a5f646338ae88fd
+      internalID: -629470361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_36
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b1e7368d0f1f4a9911bc93f909432
+      internalID: -2009787750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 112
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098908e2d2a6e041b318407fe920159
+      internalID: -508438224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 112
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c959c55f0f8647a676f845ba527e9
+      internalID: -1144565994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 112
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37ab5bf5bcb90468422a5d8f4905a3
+      internalID: -1544925890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a803be08b9df48bb466932ec94162
+      internalID: -447682168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 26
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de325fc871c78c44e90de9879cd32ccb
+      internalID: -1957094543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 26
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580badfc5e9598c43b82eb617f97b3b8
+      internalID: 266189516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 26
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d35430f89d47641b513887bf5da638
+      internalID: -256905335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ji-kexin-boom-05_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 26
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09c47179c3ffb42aee95468b322d48
+      internalID: 1825462068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 259713d7e23a6a4458b5ab86d4afb0bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ji-kexin-boom-05_33: 127803063
+      ji-kexin-boom-05_36: -2009787750
+      ji-kexin-boom-05_13: -634452917
+      ji-kexin-boom-05_19: -839850409
+      ji-kexin-boom-05_26: 1762301367
+      ji-kexin-boom-05_15: 1552618219
+      ji-kexin-boom-05_20: -1556706166
+      ji-kexin-boom-05_32: -716362652
+      ji-kexin-boom-05_7: -1681029574
+      ji-kexin-boom-05_24: 695112424
+      ji-kexin-boom-05_2: 660098722
+      ji-kexin-boom-05_25: 1768532337
+      ji-kexin-boom-05_14: -980900050
+      ji-kexin-boom-05_38: -1144565994
+      ji-kexin-boom-05_18: 1753629545
+      ji-kexin-boom-05_9: 1874113906
+      ji-kexin-boom-05_1: -849855697
+      ji-kexin-boom-05_21: 382272558
+      ji-kexin-boom-05_28: 967354965
+      ji-kexin-boom-05_8: 1411522243
+      ji-kexin-boom-05_3: -943522133
+      ji-kexin-boom-05_10: -702482728
+      ji-kexin-boom-05_30: 1134409459
+      ji-kexin-boom-05_4: 1452750919
+      ji-kexin-boom-05_44: 1825462068
+      ji-kexin-boom-05_43: -256905335
+      ji-kexin-boom-05_12: 1369468167
+      ji-kexin-boom-05_0: 1725109040
+      ji-kexin-boom-05_34: 64162010
+      ji-kexin-boom-05_39: -1544925890
+      ji-kexin-boom-05_35: -629470361
+      ji-kexin-boom-05_11: -2030012812
+      ji-kexin-boom-05_31: -1384867311
+      ji-kexin-boom-05_41: -1957094543
+      ji-kexin-boom-05_5: 1481224922
+      ji-kexin-boom-05_40: -447682168
+      ji-kexin-boom-05_23: 1084933840
+      ji-kexin-boom-05_27: 334117998
+      ji-kexin-boom-05_6: 1352169790
+      ji-kexin-boom-05_22: 1696663466
+      ji-kexin-boom-05_29: 527424023
+      ji-kexin-boom-05_17: 1868626372
+      ji-kexin-boom-05_16: 1034743119
+      ji-kexin-boom-05_37: -508438224
+      ji-kexin-boom-05_42: 266189516
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
